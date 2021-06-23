@@ -1,0 +1,2 @@
+C:\học\lab2+3\lab2+3\obj\Debug\lab2+3.csproj.AssemblyReference.cache
+C:\học\lab2+3\lab2+3\obj\Debug\lab2+3.csproj.CoreCompileInputs.cache
